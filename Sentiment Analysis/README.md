@@ -1,5 +1,7 @@
 AI Model that predict any GPT tweet to 3 categories positive, negative, neutral
+
 Preprocessing: Remove stop words, clean data, stemming, lemmatizing, word embedding
+
 Trained models: CNN, LSTM
 To make model learn from the core of the data in the tweet, decrease processing and make model more optimized
 
